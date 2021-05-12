@@ -8,6 +8,7 @@ int dia, mes, ano;
 
 int i = 1234;
 
+
 printf("Tamanho de data %d\n", (int) sizeof(data));
 printf("varialvel i = %d\n", i);
 printf("Endereço de i %ld\n" , (long int)&i);
